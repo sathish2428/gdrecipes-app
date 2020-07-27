@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef45a1a088caa8e524f115fbdb6cc5ea",
+    "revision": "fd44b603b729d9bc4e32dffbfb310d16",
     "url": "/gdrecipes-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gdrecipes-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "542c3c5bed80a0c76754",
+    "revision": "fb92648b8a23b6d5c84f",
     "url": "/gdrecipes-app/static/css/main.10e8d0b7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gdrecipes-app/static/js/2.f0d42b4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "542c3c5bed80a0c76754",
-    "url": "/gdrecipes-app/static/js/main.e4feafc5.chunk.js"
+    "revision": "fb92648b8a23b6d5c84f",
+    "url": "/gdrecipes-app/static/js/main.7064d4da.chunk.js"
   },
   {
     "revision": "5621be5e07f66e5535a4",
