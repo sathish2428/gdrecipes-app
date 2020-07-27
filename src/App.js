@@ -17,7 +17,6 @@ function App(props) {
       const response = await fetch(APP_URL);
       const data = await response.json();
       setRecipes(data.hits);
-      console.log(data.hits)
     }
     getRecipe();
   }, [query]);
